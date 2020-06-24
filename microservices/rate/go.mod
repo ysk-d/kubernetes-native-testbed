@@ -1,4 +1,4 @@
-module github.com/__TB_GITHUB_ORG_NAME__/kubernetes-native-testbed/microservices/rate
+module github.com/ysk-d/kubernetes-native-testbed/microservices/rate
 
 go 1.13
 
